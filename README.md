@@ -1,5 +1,6 @@
 # CS111-Green-Utilities
-CS111-Green-Utilities
+
+Tools for "CS111 Green" course instructors.
 
 Installation:
 
